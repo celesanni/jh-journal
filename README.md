@@ -1,2 +1,1 @@
 # jh-journal
-Journal athle
